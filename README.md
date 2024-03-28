@@ -50,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 </p>
 
-## 🔖 Layout
+## 🎨 Layout
 
 Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/community/file/1187422022288947321), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
 
