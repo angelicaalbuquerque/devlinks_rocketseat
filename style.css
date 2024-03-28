@@ -1,3 +1,33 @@
 body {
   background: url(./src/assets/bg-mobile.jpg) no-repeat top center/cover;
 }
+
+body * {
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+#container {
+  width: 360px;
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+#profile {
+  text-align: center;
+}
+
+#profile p {
+  font-weight: 500;
+  line-height: 24px;
+}
+
+#profile p + p {
+  font-size: 12px;
+  color: #d1d1d1;
+  margin-top: -14px;
+}
+
+#profile img {
+  width: 112px;
+}
