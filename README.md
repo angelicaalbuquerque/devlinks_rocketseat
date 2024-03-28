@@ -19,6 +19,9 @@
 
 <p align="center">
   <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;
+    <a>
+    <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;
+  <a>
   <a>
     <a href="#-Sobre">Layout</a>&nbsp;&nbsp;|&nbsp;
   <a>
@@ -34,9 +37,22 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover, programa da
 
 </p>
 
+<!-- Acesse o projeto finalizado, online, a[aqui](#). -->
+
+## 🚀 Tecnologias
+
+<p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+</p>
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/community/file/1187422022288947321), no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/community/file/1187422022288947321), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
 
 ## 📬 Entre em contato!
 
