@@ -15,8 +15,6 @@
 <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/rocketseat_devlinks?color=643162">
 </p>
 
----
-
 <p align="center">
   <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;
     <a>
@@ -37,7 +35,7 @@ Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover, programa da
 
 </p>
 
-<!-- Acesse o projeto finalizado, online, a[aqui](#). -->
+Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/rocketseat_devlinks/).
 
 ## 🚀 Tecnologias
 
