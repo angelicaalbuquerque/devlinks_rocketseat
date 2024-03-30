@@ -28,25 +28,20 @@
 
 ## 📚 Sobre
 
-<p>
 DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
 
-Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover, programa da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> para ensinar programação do zero e na prática.
-
-</p>
+Esse projeto é desenvolvido com HTML, CSS e JavaScript no _Discover_, programa da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> para ensinar programação do zero e na prática.
 
 Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/rocketseat_devlinks/).
 
 ## 🚀 Tecnologias
 
-<p>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
-</p>
 
 ## 🎨 Layout
 
