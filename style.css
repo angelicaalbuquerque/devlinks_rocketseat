@@ -64,3 +64,8 @@ ul li {
   border-radius: 8px;
   --webkit-backdrop-filter: blur(4px);
 }
+
+ul li a {
+  text-decoration: none;
+  font-weight: 500;
+}
