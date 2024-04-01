@@ -1,8 +1,12 @@
+/* RESET */
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
+/* GENERAL */
 
 body {
   background: url(./src/assets/bg-mobile.jpg) no-repeat top center/cover;
@@ -18,6 +22,8 @@ body * {
   margin: 56px auto 0;
   padding: 0 24px;
 }
+
+/* PROFILE */
 
 #profile {
   text-align: center;
@@ -35,6 +41,18 @@ body * {
 }
 
 #profile p + p {
-  font-size: 12px;
+  font-size: 14px;
   color: #d1d1d1;
+}
+
+/* LISTA/LINKS */
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: flex;
+  justify-content: center;
+  padding: 16px 24px;
 }
