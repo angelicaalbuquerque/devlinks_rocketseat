@@ -65,11 +65,23 @@ body * {
 #profile p + p {
   font-size: 14px;
   color: var(--sub-text-color);
+  margin-top: 4px;
 }
 
 /* SWITCH */
 
+#switch {
+  position: relative;
+  width: 64px;
+  margin: 4px auto;
+}
+
 #switch button {
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
   width: 32px;
   height: 32px;
   background: white var(--swith-bg-url) no-repeat center;
