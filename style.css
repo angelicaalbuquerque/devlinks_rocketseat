@@ -6,15 +6,27 @@
   box-sizing: border-box;
 }
 
+:root {
+  --text-color: white;
+  --sub-text-color: #d1d1d1;
+  --bg-url: url(./src/assets/bg-mobile.jpg);
+}
+
+.light {
+  --text-color: black;
+  --sub-text-color: #1d1d1d;
+  --bg-url: url(./src/assets/bg-mobile-light.jpg);
+}
+
 /* GENERAL */
 
 body {
-  background: url(./src/assets/bg-mobile.jpg) no-repeat top center/cover;
+  background: var(--bg-url) no-repeat top center/cover;
 }
 
 body * {
   font-family: "Inter", sans-serif;
-  color: white;
+  color: var(--text-color);
 }
 
 #container {
@@ -42,7 +54,7 @@ body * {
 
 #profile p + p {
   font-size: 14px;
-  color: #d1d1d1;
+  color: var(--sub-text-color);
 }
 
 /* LISTA/LINKS */
@@ -71,7 +83,7 @@ ul li a {
 
 ul li a:hover {
   background: rgba(255, 255, 255, 0.5);
-  border: 1.5px solid rgba(255, 255, 255, white);
+  border: 1.5px solid var(--text-color);
 }
 
 /* ICONS */
