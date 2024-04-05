@@ -29,6 +29,10 @@
 }
 
 /* GENERAL */
+html {
+  height: 100vh;
+}
+
 body {
   background: var(--bg-url) no-repeat top center/cover;
 }
