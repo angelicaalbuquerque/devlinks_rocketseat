@@ -1,5 +1,4 @@
 /* RESET */
-
 * {
   padding: 0;
   margin: 0;
@@ -7,7 +6,6 @@
 }
 
 /* VARIABLES AND DARK/LIGHT MODE */
-
 :root {
   --text-color: white;
   --sub-text-color: #d1d1d1;
@@ -31,9 +29,7 @@
 }
 
 /* GENERAL */
-
 body {
-  height: 100vh;
   background: var(--bg-url) no-repeat top center/cover;
 }
 
@@ -50,7 +46,6 @@ body * {
 }
 
 /* PROFILE */
-
 #profile {
   text-align: center;
   padding: 24px;
@@ -73,7 +68,6 @@ body * {
 }
 
 /* SWITCH */
-
 #switch {
   position: relative;
   width: 64px;
@@ -91,11 +85,16 @@ body * {
   background: white var(--swith-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
+
+  animation: slide-back 0.2s;
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-in 0.4s forwards;
+}
+
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch span {
@@ -110,7 +109,6 @@ body * {
 }
 
 /* LISTA/LINKS */
-
 ul {
   list-style: none;
   display: flex;
@@ -140,7 +138,6 @@ ul li a:hover {
 }
 
 /* ICONS */
-
 #social-links {
   display: flex;
   justify-content: center;
@@ -162,7 +159,6 @@ ul li a:hover {
 }
 
 /* FOOTER */
-
 footer {
   padding: 24px 0;
   text-align: center;
@@ -170,7 +166,6 @@ footer {
 }
 
 /* MEDIA QUERIES */
-
 @media (min-width: 700px) {
   :root {
     --bg-url: url(src/assets/bg-desktop.jpg);
@@ -178,5 +173,24 @@ footer {
 
   .light {
     --bg-url: url(src/assets/bg-desktop-light.jpg);
+  }
+}
+
+/* ANIMATION */
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0;
   }
 }
