@@ -1,36 +1,32 @@
-﻿<h2 align="center">
-  DevLinks | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/rocketseat.svg">
-</h2>
+﻿<h1 align="center">
+  Frontangie Links | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/rocketseat.svg" width="150px;">
+</h1>
 
 <p align="center">
-<img alt="badge html" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/html.svg">
-<img alt="badge css" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/css.svg">
-<img alt="badge javascript" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/d369e43d97e48a84cda8328adbd77b1ba280ebbf/badges/javascript.svg">
-<img alt="badge vscode" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/visual-studio-code.svg">
+  <img alt="badge html" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/html.svg">
+  <img alt="badge css" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/css.svg">
+  <img alt="badge javascript" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/d369e43d97e48a84cda8328adbd77b1ba280ebbf/badges/javascript.svg">
+  <img alt="badge vscode" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/visual-studio-code.svg">
 </p>
 
 <p align="center">
-<img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=643162">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/rocketseat_devlinks?color=643162">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/rocketseat_devlinks?color=643162">
+  <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=643162">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/rocketseat_devlinks?color=643162">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/rocketseat_devlinks?color=643162">
 </p>
 
 <p align="center">
-  <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;
-    <a>
-    <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;
-  <a>
-  <a>
-    <a href="#-Sobre">Layout</a>&nbsp;&nbsp;|&nbsp;
-  <a>
+  <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Sobre">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Entre-em-contato">Contato</a>
 </p>
 
 ## 📚 Sobre
 
-DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
+_Frontangie Links_ é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais, inspirado no projeto _DevLinks_.
 
-Esse projeto é desenvolvido com HTML, CSS e JavaScript no _Discover_, programa da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a> para ensinar programação do zero e na prática.
+Esse trabalho é desenvolvido com HTML, CSS e JavaScript no _Discover_, programa da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
 
 Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/rocketseat_devlinks/).
 
@@ -38,9 +34,11 @@ Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.i
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
+- Git
+- Github
 - Figma
 
 ## 🎨 Layout
