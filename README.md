@@ -11,8 +11,8 @@
 
 <p align="center">
   <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=643162">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/rocketseat_devlinks?color=643162">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/rocketseat_devlinks?color=643162">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/devlinks_rocketseat?color=643162">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/devlinks_rocketseat?color=643162">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ _Frontangie Links_ é um agregador de links responsivo e com troca de tema que v
 
 Esse trabalho é desenvolvido com HTML, CSS e JavaScript no _Discover_, programa da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
 
-Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/rocketseat_devlinks/).
+Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/devlinks_rocketseat/).
 
 ## 🚀 Tecnologias
 
